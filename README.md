@@ -11,7 +11,7 @@ Clone this project with the command
 git clone https://github.com/jbrown136/northcoders-news-back-end.git
 ```
 
-the switch to this project's directory and enter the following commands to set up the project
+then switch to this project's directory and enter the following commands to set up the project
 
 Install all relevant dependencies
 
